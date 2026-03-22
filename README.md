@@ -53,3 +53,33 @@ O arquivo `index.html` é a landing page do Teriaki (TeriakiAbout), com informa�
 - **Totalmente Gratuito** — Sem limites, sem assinaturas
 - **Leve e Rápido** — Um único arquivo HTML, carrega instantaneamente
 - **Single-file** — Sem dependências externas para funcionar
+
+## 🐛 Reportando Bugs
+
+Encontrou um problema? Abra uma [Issue no GitHub](https://github.com/armandoerthalcarvalho/teriaki/issues) com:
+
+- Descrição clara do problema
+- Passos para reproduzir
+- Comportamento esperado vs. comportamento atual
+- Navegador e versão utilizados
+
+
+## 📜 Licença
+
+© 2026 **Armando Erik Erthal de Carvalho**
+
+Este projeto está licenciado sob a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+
+Isso significa que você pode:
+- 📖 **Compartilhar** — copiar e redistribuir o material em qualquer meio ou formato;
+- ✏️ **Adaptar** — remixar, transformar e criar a partir do material;
+
+Desde que respeite as seguintes condições:
+- 📝 **Atribuição** — deve dar o devido crédito ao autor, fornecer um link para a licença e indicar se foram feitas alterações;
+- 🚫 **Uso não comercial** — não é permitido utilizar o material para fins comerciais;
+- 🔄 **Compartilhamento pela mesma licença** — se remixar, transformar ou criar a partir do material, deve distribuir suas contribuições sob a mesma licença.
+
+Para mais detalhes, consulte o texto completo da licença em:  
+[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
